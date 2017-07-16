@@ -49,7 +49,8 @@
   
 
 ### 阶段 2： FrontEnd 前端
-> [ 前端资源总结 ](http://cnodejs.org/topic/56ef3edd532839c33a99d00e)，可以用来参考
+> [ 前端资源总结 ](http://cnodejs.org/topic/56ef3edd532839c33a99d00e)，可以用来参考  
+> Bootstrap、jQuery、AJax 都是自己应当要学习的知识点
   1. HTML、CSS 基础：
     - [W3School](http://w3school.com.cn/index.html)，建立基础知识体系；
     - [《Head first HTML&CSS》](), 简单了解；
@@ -80,23 +81,39 @@
   
 
 ### 阶段 3： Database 数据库
-
+  1. Database 基础：
+    - [《数据库系统概念》]()
+    - [《数据库系统实现》]()
+  2. SQL：【MySQL】
+    - [MySQL技术内幕：SQL编程》]，
+    - [《高性能MySQL》]，
+    - [《MySQL技术内幕》]，
+  3. NoSQL：
+  
+  4. Database 进阶：
+  
+  5. 项目实践：
+  
+  
   
 ### 阶段 4： JavaWeb： JSP/Servlet 
-
+  1. JSP/Servlet 基础：
+    - [《head first servlet jsp》]()，入门 JSP/Servlet；
+  2. 项目实践：
   
 ### 阶段 5： SSH、SSM 框架
-  
+  [] 留待补充
 
 ### 阶段 6： 系统部署、运维
-
+  [] 留待补充
   
 ### 补充 1： 中间件
-
+  [] 留待补充
   
 ### 补充 2： 其他
-
+  [] 留待补充
 
 ## 3. 学习进度
-
+  [x] 完成 JavaEE 学习规划；
+  [] 完成 JavaSE 基础部分学习；
 
