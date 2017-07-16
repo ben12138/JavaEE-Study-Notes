@@ -46,8 +46,37 @@
   2. 完成 [《Think in Java》](https://www.gitbook.com/book/quanke/think-in-java/details) 学习；
   3. 系统学习 [《尚学堂 高琪 Java 300 集》]();
   4. 项目实践：
+  
 
 ### 阶段 2： FrontEnd 前端
+> [ 前端资源总结 ](http://cnodejs.org/topic/56ef3edd532839c33a99d00e)，可以用来参考
+  1. HTML、CSS 基础：
+    - [W3School](http://w3school.com.cn/index.html)，建立基础知识体系；
+    - [《Head first HTML&CSS》](), 简单了解；
+    - [《CSS 权威指南》第三版]()，CSS 字典；
+    - [《精通CSS》]()，CSS 实践；
+    - [《图解CSS3：核心技术与案例实践》]()，CSS 3；
+    - [《CSS实战手册第3版》]()，CSS 实践；
+    - [《HTML5与CSS3权威指南（上下册）》]()，
+    - [《CSS秘密花园》]()，选看；
+  2. JavaScript 基础：
+    - [《JavaScript DOM编程艺术》]()，JS 入门书，了解 JavaScript DOM 编程技术；
+    - [《JavaScript高级程序设计》]()，JavaScript 红宝书；
+    - [《JavaScript语言精粹》]()，很薄的知识精华；
+    - [《你不知道的JavaScript》]()，JavaScript 系列丛书；
+    - [《JavaScript设计模式》]()，
+  3. 实践：
+    - [《高性能网站建设指南》]()，
+    - [《高性能网站进阶》]()，
+  4. 进阶：
+    - [《图解HTTP》]()，
+    - [《HTTP权威指南》](), 
+    - [《锋利的jQuery》](), 快速入门 jQuery 的书；
+    - [《数据结构和算法的JavaScript描述》]()，数据结构与算法；
+    - [《JavaScript编程精解》]()，
+    - [《JavaScript启示录》]()，
+    - [《JavaScript权威指南》]()，
+  5. 项目实践：
   
 
 ### 阶段 3： Database 数据库
