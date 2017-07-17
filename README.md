@@ -15,6 +15,8 @@
 - [2. 学习计划（个人学习方法与规划）](#2-%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92%EF%BC%88%E4%B8%AA%E4%BA%BA%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E4%B8%8E%E8%A7%84%E5%88%92%EF%BC%89)
   - [阶段 1： JavaSE 基础](#%E9%98%B6%E6%AE%B5-1%EF%BC%9A-javase-%E5%9F%BA%E7%A1%80)
   - [阶段 2： FrontEnd 前端](#%E9%98%B6%E6%AE%B5-2%EF%BC%9A-frontend-%E5%89%8D%E7%AB%AF)
+    - [学习规划：](#%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92%EF%BC%9A)
+    - [参考书籍：](#%E5%8F%82%E8%80%83%E4%B9%A6%E7%B1%8D%EF%BC%9A)
   - [阶段 3： Database 数据库](#%E9%98%B6%E6%AE%B5-3%EF%BC%9A-database-%E6%95%B0%E6%8D%AE%E5%BA%93)
   - [阶段 4： JavaWeb： JSP/Servlet](#%E9%98%B6%E6%AE%B5-4%EF%BC%9A-javaweb%EF%BC%9A-jspservlet)
   - [阶段 5： SSH、SSM 框架](#%E9%98%B6%E6%AE%B5-5%EF%BC%9A-ssh%E3%80%81ssm-%E6%A1%86%E6%9E%B6)
@@ -73,27 +75,45 @@
   
 
 ### 阶段 2： FrontEnd 前端
-> [ 前端资源总结 ](http://cnodejs.org/topic/56ef3edd532839c33a99d00e)，可以用来参考  
+> [ 前端资源总结 ](http://cnodejs.org/topic/56ef3edd532839c33a99d00e)，可以用来参考，但是太乱了。  
 > Bootstrap、jQuery、AJax 都是自己应当要学习的知识点
+
+#### 学习规划：
+1. Review Youdao Note For HTML / CSS;
+2. Study JavaScript on w3school;  -> 此时，已经掌握基本的 HTML、CSS、JavaScript 知识
+3. 慕课实战课程：
+  * 【Web前端攻城狮培养计划】前端小白入门
+  * 【Web前端攻城狮培养计划】前端进阶：响应式开发与常用框架
+  * 【Web前端攻城狮培养计划】HTMl5与CSS3实现动态网页
+  * 其他课程（自主选择）
+4. 项目：
+  * 个人博客 = 技术博客（cnblogs）+ 个人生活（forrestlyu.github.io） + 个人视频（forrestvideos.github.io）
+  * ... ... 
+
+
+#### 参考书籍：
 
   1. HTML、CSS 基础：
     - [W3School](http://w3school.com.cn/index.html)，建立基础知识体系；
-    - [《Head First HTML&CSS》](), 简单了解；
+    - [《Head First HTML & CSS》](), 简单了解；
     - [《CSS 权威指南》第三版]()，CSS 字典；
     - [《精通CSS》]()，CSS 实践；
     - [《图解CSS3：核心技术与案例实践》]()，CSS 3；
     - [《CSS实战手册第3版》]()，CSS 实践；
     - [《HTML5与CSS3权威指南（上下册）》]()，
     - [《CSS秘密花园》]()，选看；
+
   2. JavaScript 基础：
     - [《JavaScript DOM编程艺术》]()，JS 入门书，了解 JavaScript DOM 编程技术；
     - [《JavaScript高级程序设计》]()，JavaScript 红宝书；
     - [《JavaScript语言精粹》]()，很薄的知识精华；
     - [《你不知道的JavaScript》]()，JavaScript 系列丛书；
     - [《JavaScript设计模式》]()，
+
   3. 实践：
     - [《高性能网站建设指南》]()，
     - [《高性能网站进阶》]()，
+  
   4. 进阶：
     - [《图解HTTP》]()，
     - [《HTTP权威指南》](), 
@@ -102,7 +122,6 @@
     - [《JavaScript编程精解》]()，
     - [《JavaScript启示录》]()，
     - [《JavaScript权威指南》]()，
-  5. 项目实践：
   
 
 ### 阶段 3： Database 数据库
