@@ -82,10 +82,10 @@
 1. Review Youdao Note For HTML / CSS;
 2. Study JavaScript on w3school;  -> 此时，已经掌握基本的 HTML、CSS、JavaScript 知识
 3. 慕课实战课程：
-  * 【Web前端攻城狮培养计划】前端小白入门
-  * 【Web前端攻城狮培养计划】前端进阶：响应式开发与常用框架
-  * 【Web前端攻城狮培养计划】HTMl5与CSS3实现动态网页
-  * 其他课程（自主选择）
+  - [*]【Web前端攻城狮培养计划】前端小白入门
+  - [] 【Web前端攻城狮培养计划】前端进阶：响应式开发与常用框架
+  - []【Web前端攻城狮培养计划】HTMl5与CSS3实现动态网页
+  - [] 其他课程（自主选择）
 4. 项目：
   * 个人博客 = 技术博客（cnblogs）+ 个人生活（forrestlyu.github.io） + 个人视频（forrestvideos.github.io）
   * ... ... 
@@ -115,8 +115,8 @@
     - [《高性能网站进阶》]()，
   
   4. 进阶：
-    - [《图解HTTP》]()，
-    - [《HTTP权威指南》](), 
+    - [] [《图解HTTP》]()，
+    - [] [《HTTP权威指南》](), 
     - [《锋利的jQuery》](), 快速入门 jQuery 的书；
     - [《数据结构和算法的JavaScript描述》]()，数据结构与算法；
     - [《JavaScript编程精解》]()，
@@ -126,12 +126,12 @@
 
 ### 阶段 3： Database 数据库
   1. Database 基础：
-    - [《数据库系统概念》]()，
-    - [《数据库系统实现》]()，
+    - [] [《数据库系统概念》]()，
+    - [] [《数据库系统实现》]()，
   2. SQL：【MySQL】
-    - [MySQL技术内幕：SQL编程》]()，
-    - [《高性能MySQL》]()，
-    - [《MySQL技术内幕》]()，
+    - [] [MySQL技术内幕：SQL编程》]()，
+    - [] [《高性能MySQL》]()，
+    - [] [《MySQL技术内幕: InnoDB》]()，
   3. NoSQL：
   
   4. Database 进阶：
@@ -144,7 +144,8 @@
   2. 项目实践：
   
 ### 阶段 5： SSH、SSM 框架
-  [ ] 留待补充
+> JavaEE 并不等于 spring struts hibernate，还有各种其他的选择，ssh不是唯一甚至不是最好的选择，这里按下不表。先问一个问题，什么是 jsp/servlet 不能做，而 ssh 能做的？没有 ssh 之前，就没有 web 应用了么？有人会觉得 servlet 傻，可是你看看 struts 的核心入口 Dispatcher ，不就是一个Servlet 么。你觉得 jdbc 难用，hibernate 的功能最后还是用 jdbc 实现的，而且不少批量处理的情况，还是原生 sql 好用，以至于 hibernate 不得不提供原生 sql 接口，mybatis 正是从这里挖走不少用户。在很多情况下，ssh 做的，只不过是把 java/jsp/servlet/jdbc 本来就具有的功能，封装成不一样的 API，把原先用 Java 编写的代码变成用 XML 编写，然后在用 java 写的解释器在 jvm 里面去运行这些 XML。所以，我觉得 ssh 其实就是面向 web 开发这个领域创造出来的一组 DSL (领域特定语言)。而这套语言以 XML 开始，现在转移到 java 的注解 annotation，慢慢的又回归 java 语言本身。不太全面的说，struts 就是给不熟悉 html/css/js 的 web 程序员摆脱它们写业务逻辑用的，hibernate 就是给不熟悉 SQL 的程序员摆脱 SQL 写数据库程序用的，spring 就是给不熟悉 java 的接口、反射的程序员摆脱接口反射写 AOP 用的。而上面被代替的这些，恰恰是相关领域的原生 DSL，这里面多少有一点讽刺的意味，对么？如果 struts 的开发者没有在 jsp 混杂 java 片段的各种<%="'"+xx.yy()+"'"%>嵌套括号引号海里面摸爬滚打过来，你觉得他们会想到要做 struts 么？如果hibernate 的开发者没有在 SQL 的 join 链中绕晕过，他们会搞 hibernate ?如果 spring 的开发者没有对 java 反射的异常数量吐过槽，会有 spring ?如果你只想做一个平庸的码农，去学 ssh 能让你找到一份不错的入门工作。如果你希望能深入的理解系统、语言、框架，去学习语言本身提供的功能，去学习 servlet、jdbc、java，去看看如何用他们构造通用的复杂的系统，也许未来5-10年，人们再提起 JavaEE，说的就是你创造的框架的名字，而不再是什么 spring struts hibernate。我们总是希望高内聚低耦合，但两者通常是矛盾的；如果你愿意放弃其中的一个，就可以在另一个上面走的更远。
+
 
 ### 阶段 6： 系统部署、运维
   [ ] 留待补充
@@ -156,7 +157,8 @@
   [ ] 留待补充
 
 ## 3. 学习进度
-  [x] 完成 JavaEE 学习规划；  
-  [x] 完成 JavaSE 基础部分学习；
-  [] 完成 FE 前端学习；  
+  - [x] 完成 JavaEE 学习规划；  
+  - [x] 完成 JavaSE 基础部分学习；
+  - [x] 完成 FE 前端学习；  
+  - [] 完成 JavaSE 高级部分学习
 
